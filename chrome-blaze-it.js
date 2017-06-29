@@ -12,4 +12,8 @@ function htmlreplace(a, b, element) {
     }
 }
 
+htmlreplace('420', '420 BLAZE IT');
 htmlreplace('4:20', '4:20 BLAZE IT');
+htmlreplace('4.20', '4.20 BLAZE IT');
+htmlreplace('4.2.0', '4.2.0 BLAZE IT');
+htmlreplace('42O', '42O BLAZE IT');
