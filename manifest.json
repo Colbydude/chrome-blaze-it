@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Chrome Blaze It",
     "description": "The Chrome Extension that reminds you to get lit at 4:20.",
-    "version": "1.0",
+    "version": "1.1",
     "browser_action": {
         "default_icon": "icon_128.png"
     },
